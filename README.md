@@ -2,8 +2,15 @@
 
 This project is a robust API for product registration developed using Golang. It leverages Docker for containerization, Postman for API testing, DBeaver for database management, and Postgres as the database. The project follows a well-structured architecture to ensure maintainability and scalability.
 
-
 This project is a Golang-based API designed for product registration. It uses Docker for containerization, Postman for API testing, DBeaver for database management, and Postgres as the database.
+
+## Technologies Used
+
+- ![Golang](https://img.shields.io/badge/Go-1.15-blue?logo=go) **Golang**
+- ![Docker](https://img.shields.io/badge/Docker-19.03.8-blue?logo=docker) **Docker**
+- ![Postman](https://img.shields.io/badge/Postman-7.30.1-orange?logo=postman) **Postman**
+- ![DBeaver](https://img.shields.io/badge/DBeaver-7.1.0-blue?logo=dbeaver) **DBeaver**
+- ![Postgres](https://img.shields.io/badge/PostgreSQL-12.3-blue?logo=postgresql) **Postgres**
 
 ## Project Structure
 
@@ -135,7 +142,3 @@ Feel free to submit issues, fork the repository, and send pull requests!
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides an overview of the project, installation instructions, a summary of the available API endpoints, and guidelines for contributing. If you have any questions or need further assistance, please feel free to reach out.
